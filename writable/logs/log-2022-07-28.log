@@ -1,0 +1,205 @@
+CRITICAL - 2022-07-28 03:55:30 --> Undefined offset: 1
+#0 /datas/konterai/joki/app/Controllers/Tele.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/datas/konterai...', 106, Array)
+#1 /datas/konterai/joki/system/CodeIgniter.php(832): App\Controllers\Tele->add()
+#2 /datas/konterai/joki/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 /datas/konterai/joki/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /datas/konterai/public_html/joki/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-28 03:57:14 --> Undefined offset: 1
+#0 /datas/konterai/joki/app/Controllers/Tele.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/datas/konterai...', 106, Array)
+#1 /datas/konterai/joki/system/CodeIgniter.php(832): App\Controllers\Tele->add()
+#2 /datas/konterai/joki/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 /datas/konterai/joki/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /datas/konterai/public_html/joki/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-28 03:58:48 --> Undefined offset: 1
+#0 /datas/konterai/joki/app/Controllers/Tele.php(100): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/datas/konterai...', 100, Array)
+#1 /datas/konterai/joki/system/CodeIgniter.php(832): App\Controllers\Tele->add()
+#2 /datas/konterai/joki/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 /datas/konterai/joki/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /datas/konterai/public_html/joki/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-28 04:01:40 --> Undefined offset: 1
+#0 /datas/konterai/joki/app/Controllers/Tele.php(100): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/datas/konterai...', 100, Array)
+#1 /datas/konterai/joki/system/CodeIgniter.php(832): App\Controllers\Tele->add()
+#2 /datas/konterai/joki/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 /datas/konterai/joki/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /datas/konterai/public_html/joki/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-28 04:01:41 --> Undefined offset: 1
+#0 /datas/konterai/joki/app/Controllers/Tele.php(100): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', '/datas/konterai...', 100, Array)
+#1 /datas/konterai/joki/system/CodeIgniter.php(832): App\Controllers\Tele->add()
+#2 /datas/konterai/joki/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 /datas/konterai/joki/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /datas/konterai/public_html/joki/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-28 04:08:23 --> Trying to get property 'nik' of non-object
+#0 /datas/konterai/joki/app/Controllers/Tele.php(104): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/datas/konterai...', 104, Array)
+#1 /datas/konterai/joki/system/CodeIgniter.php(832): App\Controllers\Tele->add()
+#2 /datas/konterai/joki/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 /datas/konterai/joki/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /datas/konterai/public_html/joki/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-28 04:08:23 --> Trying to get property 'nik' of non-object
+#0 /datas/konterai/joki/app/Controllers/Tele.php(104): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/datas/konterai...', 104, Array)
+#1 /datas/konterai/joki/system/CodeIgniter.php(832): App\Controllers\Tele->add()
+#2 /datas/konterai/joki/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 /datas/konterai/joki/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /datas/konterai/public_html/joki/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-28 04:11:08 --> Cannot use App\Models\UserModel as UserModel because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:11:08 --> Cannot use App\Models\UserModel as UserModel because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:11:08 --> Cannot use App\Models\UserModel as UserModel because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:11:09 --> Cannot use App\Models\UserModel as UserModel because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:11:13 --> Cannot use App\Models\UserModel as UserModel because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:11:13 --> Cannot use App\Models\UserModel as UserModel because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:11:13 --> Cannot use App\Models\UserModel as UserModel because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:11:13 --> Cannot use App\Models\UserModel as UserModel because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:11:55 --> Trying to get property 'nik' of non-object
+#0 /datas/konterai/joki/app/Controllers/Tele.php(104): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/datas/konterai...', 104, Array)
+#1 /datas/konterai/joki/system/CodeIgniter.php(832): App\Controllers\Tele->add()
+#2 /datas/konterai/joki/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 /datas/konterai/joki/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /datas/konterai/public_html/joki/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-28 04:11:56 --> Trying to get property 'nik' of non-object
+#0 /datas/konterai/joki/app/Controllers/Tele.php(104): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/datas/konterai...', 104, Array)
+#1 /datas/konterai/joki/system/CodeIgniter.php(832): App\Controllers\Tele->add()
+#2 /datas/konterai/joki/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 /datas/konterai/joki/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /datas/konterai/public_html/joki/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-28 04:12:48 --> Trying to access array offset on value of type bool
+#0 /datas/konterai/joki/app/Controllers/Tele.php(104): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', '/datas/konterai...', 104, Array)
+#1 /datas/konterai/joki/system/CodeIgniter.php(832): App\Controllers\Tele->add()
+#2 /datas/konterai/joki/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 /datas/konterai/joki/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /datas/konterai/public_html/joki/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-28 04:12:49 --> Trying to access array offset on value of type bool
+#0 /datas/konterai/joki/app/Controllers/Tele.php(104): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', '/datas/konterai...', 104, Array)
+#1 /datas/konterai/joki/system/CodeIgniter.php(832): App\Controllers\Tele->add()
+#2 /datas/konterai/joki/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 /datas/konterai/joki/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /datas/konterai/public_html/joki/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-28 04:14:25 --> Cannot redeclare App\Models\UserModel::cariTele()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:14:25 --> Cannot redeclare App\Models\UserModel::cariTele()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:14:25 --> Cannot redeclare App\Models\UserModel::cariTele()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:14:26 --> Cannot redeclare App\Models\UserModel::cariTele()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:14:39 --> Cannot redeclare App\Models\UserModel::cariTele()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:14:39 --> Cannot redeclare App\Models\UserModel::cariTele()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:14:39 --> Cannot redeclare App\Models\UserModel::cariTele()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:14:39 --> Cannot redeclare App\Models\UserModel::cariTele()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:16:00 --> Cannot redeclare App\Models\UserModel::cariTele()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:17:29 --> Cannot redeclare App\Models\UserModel::cariTele()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:17:38 --> Cannot redeclare App\Models\UserModel::cariTele()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:17:40 --> Cannot redeclare App\Models\UserModel::cariTele()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:17:40 --> Cannot redeclare App\Models\UserModel::cariTele()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:17:41 --> Cannot redeclare App\Models\UserModel::cariTele()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:17:41 --> Cannot redeclare App\Models\UserModel::cariTele()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:17:42 --> Cannot redeclare App\Models\UserModel::cariTele()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-28 04:21:16 --> Call to undefined method App\Models\UserModel::cekTele
+#0 /datas/konterai/joki/app/Controllers/Tele.php(25): CodeIgniter\Model->__call('cekTele', Array)
+#1 /datas/konterai/joki/system/CodeIgniter.php(832): App\Controllers\Tele->cekId('5491587178')
+#2 /datas/konterai/joki/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 /datas/konterai/joki/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /datas/konterai/public_html/joki/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-28 04:22:28 --> Call to undefined method App\Models\UserModel::cekTele
+#0 /datas/konterai/joki/app/Controllers/Tele.php(25): CodeIgniter\Model->__call('cekTele', Array)
+#1 /datas/konterai/joki/system/CodeIgniter.php(832): App\Controllers\Tele->cekId('5491587178')
+#2 /datas/konterai/joki/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 /datas/konterai/joki/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /datas/konterai/public_html/joki/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-28 04:22:51 --> Call to undefined method App\Models\UserModel::cekTele
+#0 /datas/konterai/joki/app/Controllers/Tele.php(25): CodeIgniter\Model->__call('cekTele', Array)
+#1 /datas/konterai/joki/system/CodeIgniter.php(832): App\Controllers\Tele->cekId('5491587178')
+#2 /datas/konterai/joki/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 /datas/konterai/joki/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /datas/konterai/public_html/joki/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-28 04:24:08 --> Call to undefined method App\Models\UserModel::cekTele
+#0 /datas/konterai/joki/app/Controllers/Tele.php(25): CodeIgniter\Model->__call('cekTele', Array)
+#1 /datas/konterai/joki/system/CodeIgniter.php(832): App\Controllers\Tele->cekId('5491587178')
+#2 /datas/konterai/joki/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 /datas/konterai/joki/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /datas/konterai/public_html/joki/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-28 04:26:28 --> Call to undefined method App\Models\UserModel::cekTele
+#0 /datas/konterai/joki/app/Controllers/Tele.php(25): CodeIgniter\Model->__call('cekTele', Array)
+#1 /datas/konterai/joki/system/CodeIgniter.php(832): App\Controllers\Tele->cekId('2030064010')
+#2 /datas/konterai/joki/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 /datas/konterai/joki/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /datas/konterai/public_html/joki/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-28 04:28:07 --> Call to undefined method App\Models\UserModel::cekTele
+#0 /datas/konterai/joki/app/Controllers/Tele.php(25): CodeIgniter\Model->__call('cekTele', Array)
+#1 /datas/konterai/joki/system/CodeIgniter.php(832): App\Controllers\Tele->cekId('2030064010')
+#2 /datas/konterai/joki/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 /datas/konterai/joki/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /datas/konterai/public_html/joki/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-28 04:29:29 --> Call to undefined method App\Models\UserModel::cekTele
+#0 /datas/konterai/joki/app/Controllers/Tele.php(25): CodeIgniter\Model->__call('cekTele', Array)
+#1 /datas/konterai/joki/system/CodeIgniter.php(832): App\Controllers\Tele->cekId('2030064010')
+#2 /datas/konterai/joki/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 /datas/konterai/joki/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /datas/konterai/public_html/joki/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-28 04:29:54 --> Call to undefined method App\Models\UserModel::cekTele
+#0 /datas/konterai/joki/app/Controllers/Tele.php(25): CodeIgniter\Model->__call('cekTele', Array)
+#1 /datas/konterai/joki/system/CodeIgniter.php(832): App\Controllers\Tele->cekId('123')
+#2 /datas/konterai/joki/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 /datas/konterai/joki/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /datas/konterai/public_html/joki/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

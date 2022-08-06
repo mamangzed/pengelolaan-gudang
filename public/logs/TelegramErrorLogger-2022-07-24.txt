@@ -1,0 +1,191 @@
+============[Date]============
+[ 2022-07-24 02:01:09  America/Chicago ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"Button 1","request_contact":false,"request_location":false},{"text":"Button 2","request_contact":false,"request_location":false}],[{"text":"Button 3","request_contact":false,"request_location":false},{"text":"Button 4","request_contact":false,"request_location":false},{"text":"Button 5","request_contact":false,"request_location":false}],[{"text":"Button 6","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":false,"selective":true}
+ref.text= This is a Keyboard Test
+
+
+============[Trace]===========
+#0 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(1797): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(119): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(177): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\joki\app\Controllers\Tele.php(21): Telegram->sendMessage(Array)
+#4 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#5 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#6 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#9 {main}
+
+============[Date]============
+[ 2022-07-24 02:01:49  America/Chicago ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"Button 1","request_contact":false,"request_location":false},{"text":"Button 2","request_contact":false,"request_location":false}],[{"text":"Button 3","request_contact":false,"request_location":false},{"text":"Button 4","request_contact":false,"request_location":false},{"text":"Button 5","request_contact":false,"request_location":false}],[{"text":"Button 6","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":false,"selective":true}
+ref.text= This is a Keyboard Test
+
+
+============[Trace]===========
+#0 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(1797): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(119): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(177): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\joki\app\Controllers\Tele.php(21): Telegram->sendMessage(Array)
+#4 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#5 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#6 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#9 {main}
+
+============[Date]============
+[ 2022-07-24 02:01:53  America/Chicago ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"Button 1","request_contact":false,"request_location":false},{"text":"Button 2","request_contact":false,"request_location":false}],[{"text":"Button 3","request_contact":false,"request_location":false},{"text":"Button 4","request_contact":false,"request_location":false},{"text":"Button 5","request_contact":false,"request_location":false}],[{"text":"Button 6","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":false,"selective":true}
+ref.text= This is a Keyboard Test
+
+
+============[Trace]===========
+#0 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(1797): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(119): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(177): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\joki\app\Controllers\Tele.php(21): Telegram->sendMessage(Array)
+#4 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#5 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#6 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#9 {main}
+
+============[Date]============
+[ 2022-07-24 02:02:12  America/Chicago ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"Button 1","request_contact":false,"request_location":false},{"text":"Button 2","request_contact":false,"request_location":false}],[{"text":"Button 3","request_contact":false,"request_location":false},{"text":"Button 4","request_contact":false,"request_location":false},{"text":"Button 5","request_contact":false,"request_location":false}],[{"text":"Button 6","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":false,"selective":true}
+ref.text= This is a Keyboard Test
+
+
+============[Trace]===========
+#0 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(1797): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(119): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(177): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\joki\app\Controllers\Tele.php(21): Telegram->sendMessage(Array)
+#4 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#5 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#6 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#9 {main}
+
+============[Date]============
+[ 2022-07-24 02:02:52  America/Chicago ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"Button 1","request_contact":false,"request_location":false},{"text":"Button 2","request_contact":false,"request_location":false}],[{"text":"Button 3","request_contact":false,"request_location":false},{"text":"Button 4","request_contact":false,"request_location":false},{"text":"Button 5","request_contact":false,"request_location":false}],[{"text":"Button 6","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":false,"selective":true}
+ref.text= This is a Keyboard Test
+
+
+============[Trace]===========
+#0 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(1797): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(119): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(177): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\joki\app\Controllers\Tele.php(21): Telegram->sendMessage(Array)
+#4 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#5 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#6 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#9 {main}
+
+============[Date]============
+[ 2022-07-24 02:03:31  America/Chicago ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.reply_markup= {"keyboard":[[{"text":"Button 1","request_contact":false,"request_location":false},{"text":"Button 2","request_contact":false,"request_location":false}],[{"text":"Button 3","request_contact":false,"request_location":false},{"text":"Button 4","request_contact":false,"request_location":false},{"text":"Button 5","request_contact":false,"request_location":false}],[{"text":"Button 6","request_contact":false,"request_location":false}]],"one_time_keyboard":false,"resize_keyboard":false,"selective":true}
+ref.text= This is a Keyboard Test
+
+
+============[Trace]===========
+#0 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(1797): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(119): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(177): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\joki\app\Controllers\Tele.php(21): Telegram->sendMessage(Array)
+#4 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#5 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#6 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#9 {main}
+
+============[Date]============
+[ 2022-07-24 02:04:54  America/Chicago ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.text= This is a Keyboard Test
+
+
+============[Trace]===========
+#0 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(1797): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(119): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(177): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\joki\app\Controllers\Tele.php(21): Telegram->sendMessage(Array)
+#4 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#5 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#6 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#9 {main}
+
+============[Date]============
+[ 2022-07-24 02:09:00  America/Chicago ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.reply_markup= {"keyboard":[["Nutrisari|BAR-0121001"],["Popok|BAR-0722002"],["Nutrisari jeruk|BAR-0722003"],["Nutrisari 2|BAR-0722004"]],"one_time_keyboard":false,"resize_keyboard":false,"selective":true}
+ref.text= This is a Keyboard Test
+
+
+============[Trace]===========
+#0 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(1797): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(119): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(177): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\joki\app\Controllers\Tele.php(18): Telegram->sendMessage(Array)
+#4 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#5 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#6 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#9 {main}
+

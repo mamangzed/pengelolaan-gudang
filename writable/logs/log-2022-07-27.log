@@ -1,0 +1,641 @@
+ERROR - 2022-07-27 06:26:01 --> Unknown column 'users_id' in 'on clause'
+CRITICAL - 2022-07-27 06:26:01 --> Unknown column 'users_id' in 'on clause'
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:27:10 --> Unknown column 'users_id' in 'on clause'
+CRITICAL - 2022-07-27 06:27:10 --> Unknown column 'users_id' in 'on clause'
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:27:11 --> Unknown column 'users_id' in 'on clause'
+CRITICAL - 2022-07-27 06:27:11 --> Unknown column 'users_id' in 'on clause'
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:27:12 --> Unknown column 'users_id' in 'on clause'
+CRITICAL - 2022-07-27 06:27:12 --> Unknown column 'users_id' in 'on clause'
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:27:12 --> Unknown column 'users_id' in 'on clause'
+CRITICAL - 2022-07-27 06:27:12 --> Unknown column 'users_id' in 'on clause'
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:27:12 --> Unknown column 'users_id' in 'on clause'
+CRITICAL - 2022-07-27 06:27:12 --> Unknown column 'users_id' in 'on clause'
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:27:12 --> Unknown column 'users_id' in 'on clause'
+CRITICAL - 2022-07-27 06:27:12 --> Unknown column 'users_id' in 'on clause'
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:27:12 --> Unknown column 'users_id' in 'on clause'
+CRITICAL - 2022-07-27 06:27:12 --> Unknown column 'users_id' in 'on clause'
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:27:12 --> Unknown column 'users_id' in 'on clause'
+CRITICAL - 2022-07-27 06:27:12 --> Unknown column 'users_id' in 'on clause'
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:27:30 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:27:30 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:27:31 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:27:31 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:27:31 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:27:31 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:29:22 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:29:22 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:29:23 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:29:23 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:29:23 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:29:23 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:29:23 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:29:23 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:29:23 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:29:23 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:29:23 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:29:23 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:31:23 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:31:23 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:31:24 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:31:24 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:35:21 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:35:21 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:35:21 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:35:21 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:35:22 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:35:22 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:35:22 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:35:22 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:35:22 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:35:22 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:35:22 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:35:22 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:35:22 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:35:22 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:35:23 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:35:23 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:35:23 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:35:23 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:35:23 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:35:23 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:35:24 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:35:24 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:35:25 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:35:25 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:35:25 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:35:25 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:35:26 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:35:26 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:35:27 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:35:27 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:35:27 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:35:27 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:35:27 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:35:27 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:35:28 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:35:28 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+ERROR - 2022-07-27 06:35:28 --> Column 'id' in order clause is ambiguous
+CRITICAL - 2022-07-27 06:35:28 --> Column 'id' in order clause is ambiguous
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\joki\app\Controllers\Barang.php(265): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Barang->approveKeluar()
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barang))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+CRITICAL - 2022-07-27 07:35:41 --> syntax error, unexpected ')'
+#0 D:\xampp\joki\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\joki\\a...')
+#1 D:\xampp\joki\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\joki\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\joki\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#9 {main}
+CRITICAL - 2022-07-27 20:41:55 --> syntax error, unexpected '}'
+#0 D:\xampp\joki\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\joki\\a...')
+#1 D:\xampp\joki\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Tele...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Tele...')
+#3 D:\xampp\joki\app\Controllers\Tele.php(20): spl_autoload_call('App\\Models\\Tele...')
+#4 D:\xampp\joki\system\CodeIgniter.php(809): App\Controllers\Tele->__construct()
+#5 D:\xampp\joki\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#9 {main}
+CRITICAL - 2022-07-27 20:41:56 --> syntax error, unexpected '}'
+#0 D:\xampp\joki\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\joki\\a...')
+#1 D:\xampp\joki\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Tele...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Tele...')
+#3 D:\xampp\joki\app\Controllers\Tele.php(20): spl_autoload_call('App\\Models\\Tele...')
+#4 D:\xampp\joki\system\CodeIgniter.php(809): App\Controllers\Tele->__construct()
+#5 D:\xampp\joki\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#9 {main}
+ERROR - 2022-07-27 21:14:39 --> Unknown column 'telepon' in 'where clause'
+CRITICAL - 2022-07-27 21:14:39 --> Unknown column 'telepon' in 'where clause'
+#0 D:\xampp\joki\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\joki\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\joki\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\joki\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\joki\system\Model.php(728): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\joki\app\Models\TeleModel.php(57): CodeIgniter\Model->__call('get', Array)
+#6 D:\xampp\joki\app\Controllers\Tele.php(168): App\Models\TeleModel->login('5132')
+#7 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->loginTele('5132')
+#8 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#9 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#12 {main}
+CRITICAL - 2022-07-27 21:32:17 --> Trying to access array offset on value of type null
+#0 D:\xampp\joki\app\Controllers\Tele.php(175): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\joki\\a...', 175, Array)
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->chatId('31')
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}

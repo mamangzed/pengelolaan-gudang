@@ -1,0 +1,175 @@
+============[Date]============
+[ 2022-07-26 03:15:18  America/Chicago ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		6
+curl_error:		Could not resolve host: api.telegram.org
+=========[Sent Data]==========
+[ref]
+ref.reply_markup= {"keyboard":[["BAR-0121001|Nutrisari"],["BAR-0722002|Popok"],["BAR-0722003|Nutrisari jeruk"],["BAR-0722004|Nutrisari 2"]],"one_time_keyboard":true,"resize_keyboard":false,"selective":true}
+ref.text= Sialhkan pilih barang dibawah ini
+
+
+============[Trace]===========
+#0 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(1797): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(119): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(177): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\joki\app\Controllers\Tele.php(27): Telegram->sendMessage(Array)
+#4 D:\xampp\joki\app\Controllers\Tele.php(80): App\Controllers\Tele->btnGudang()
+#5 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#6 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#7 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#10 {main}
+
+============[Date]============
+[ 2022-07-26 03:15:56  America/Chicago ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		6
+curl_error:		Could not resolve host: api.telegram.org
+=========[Sent Data]==========
+[ref]
+ref.reply_markup= {"keyboard":[["BAR-0121001|Nutrisari"],["BAR-0722002|Popok"],["BAR-0722003|Nutrisari jeruk"],["BAR-0722004|Nutrisari 2"]],"one_time_keyboard":true,"resize_keyboard":false,"selective":true}
+ref.text= Sialhkan pilih barang dibawah ini
+
+
+============[Trace]===========
+#0 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(1797): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(119): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(177): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\joki\app\Controllers\Tele.php(27): Telegram->sendMessage(Array)
+#4 D:\xampp\joki\app\Controllers\Tele.php(79): App\Controllers\Tele->btnGudang()
+#5 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#6 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#7 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#10 {main}
+
+============[Date]============
+[ 2022-07-26 03:16:19  America/Chicago ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		6
+curl_error:		Could not resolve host: api.telegram.org
+=========[Sent Data]==========
+[ref]
+ref.reply_markup= {"keyboard":[["BAR-0121001|Nutrisari"],["BAR-0722002|Popok"],["BAR-0722003|Nutrisari jeruk"],["BAR-0722004|Nutrisari 2"]],"one_time_keyboard":true,"resize_keyboard":false,"selective":true}
+ref.text= Sialhkan pilih barang dibawah ini
+
+
+============[Trace]===========
+#0 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(1797): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(119): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(177): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\joki\app\Controllers\Tele.php(27): Telegram->sendMessage(Array)
+#4 D:\xampp\joki\app\Controllers\Tele.php(80): App\Controllers\Tele->btnGudang()
+#5 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#6 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#7 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#10 {main}
+
+============[Date]============
+[ 2022-07-26 03:16:50  America/Chicago ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		6
+curl_error:		Could not resolve host: api.telegram.org
+=========[Sent Data]==========
+[ref]
+ref.reply_markup= {"keyboard":[["BAR-0121001|Nutrisari"],["BAR-0722002|Popok"],["BAR-0722003|Nutrisari jeruk"],["BAR-0722004|Nutrisari 2"]],"one_time_keyboard":true,"resize_keyboard":false,"selective":true}
+ref.text= Sialhkan pilih barang dibawah ini
+
+
+============[Trace]===========
+#0 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(1797): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(119): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(177): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\joki\app\Controllers\Tele.php(27): Telegram->sendMessage(Array)
+#4 D:\xampp\joki\app\Controllers\Tele.php(80): App\Controllers\Tele->btnGudang()
+#5 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#6 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#7 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#10 {main}
+
+============[Date]============
+[ 2022-07-26 03:17:45  America/Chicago ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		6
+curl_error:		Could not resolve host: api.telegram.org
+=========[Sent Data]==========
+[ref]
+ref.reply_markup= {"keyboard":[["BAR-0121001|Nutrisari"],["BAR-0722002|Popok"],["BAR-0722003|Nutrisari jeruk"],["BAR-0722004|Nutrisari 2"]],"one_time_keyboard":true,"resize_keyboard":false,"selective":true}
+ref.text= Sialhkan pilih barang dibawah ini
+
+
+============[Trace]===========
+#0 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(1797): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(119): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(177): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\joki\app\Controllers\Tele.php(27): Telegram->sendMessage(Array)
+#4 D:\xampp\joki\app\Controllers\Tele.php(79): App\Controllers\Tele->btnGudang()
+#5 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#6 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#7 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#10 {main}
+
+============[Date]============
+[ 2022-07-26 03:18:12  America/Chicago ] 
+==========[Response]==========
+ok:			False
+curl_error_code:		6
+curl_error:		Could not resolve host: api.telegram.org
+=========[Sent Data]==========
+[ref]
+ref.reply_markup= {"keyboard":[["BAR-0121001|Nutrisari"],["BAR-0722002|Popok"],["BAR-0722003|Nutrisari jeruk"],["BAR-0722004|Nutrisari 2"]],"one_time_keyboard":true,"resize_keyboard":false,"selective":true}
+ref.text= Sialhkan pilih barang dibawah ini
+
+
+============[Trace]===========
+#0 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(1797): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(119): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(177): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\joki\app\Controllers\Tele.php(27): Telegram->sendMessage(Array)
+#4 D:\xampp\joki\app\Controllers\Tele.php(79): App\Controllers\Tele->btnGudang()
+#5 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#6 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#7 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#10 {main}
+
+============[Date]============
+[ 2022-07-26 03:26:38  America/Chicago ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: chat not found
+=========[Sent Data]==========
+[ref]
+ref.reply_markup= {"keyboard":[["BAR-0121001|Nutrisari"],["BAR-0722002|Popok"],["BAR-0722003|Nutrisari jeruk"],["BAR-0722004|Nutrisari 2"]],"one_time_keyboard":true,"resize_keyboard":false,"selective":true}
+ref.text= Sialhkan pilih barang dibawah ini
+
+
+============[Trace]===========
+#0 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(1797): TelegramErrorLogger::log(Array, Array)
+#1 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(119): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 D:\xampp\joki\vendor\eleirbag89\telegrambotphp\Telegram.php(177): Telegram->endpoint('sendMessage', Array)
+#3 D:\xampp\joki\app\Controllers\Tele.php(30): Telegram->sendMessage(Array)
+#4 D:\xampp\joki\app\Controllers\Tele.php(73): App\Controllers\Tele->btnGudang()
+#5 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#6 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#7 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#10 {main}
+

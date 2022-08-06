@@ -1,0 +1,226 @@
+CRITICAL - 2022-07-26 03:17:58 --> Call to undefined method CodeIgniter\Session\Session::ser()
+#0 D:\xampp\joki\app\Controllers\Tele.php(90): App\Controllers\Tele->currentMsg('/kunyuk')
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:17:59 --> Call to undefined method CodeIgniter\Session\Session::ser()
+#0 D:\xampp\joki\app\Controllers\Tele.php(90): App\Controllers\Tele->currentMsg('/kunyuk')
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:18:01 --> Call to undefined method CodeIgniter\Session\Session::ser()
+#0 D:\xampp\joki\app\Controllers\Tele.php(90): App\Controllers\Tele->currentMsg('/kunyuk')
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:18:18 --> Call to undefined method CodeIgniter\Session\Session::ser()
+#0 D:\xampp\joki\app\Controllers\Tele.php(90): App\Controllers\Tele->currentMsg('/kunyuk')
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:18:19 --> Call to undefined method CodeIgniter\Session\Session::ser()
+#0 D:\xampp\joki\app\Controllers\Tele.php(90): App\Controllers\Tele->currentMsg('/kunyuk')
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:18:20 --> Call to undefined method CodeIgniter\Session\Session::ser()
+#0 D:\xampp\joki\app\Controllers\Tele.php(90): App\Controllers\Tele->currentMsg('/kunyuk')
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:18:21 --> Call to undefined method CodeIgniter\Session\Session::ser()
+#0 D:\xampp\joki\app\Controllers\Tele.php(90): App\Controllers\Tele->currentMsg('/kunyuk')
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:18:22 --> Call to undefined method CodeIgniter\Session\Session::ser()
+#0 D:\xampp\joki\app\Controllers\Tele.php(90): App\Controllers\Tele->currentMsg('/kunyuk')
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:18:22 --> Call to undefined method CodeIgniter\Session\Session::ser()
+#0 D:\xampp\joki\app\Controllers\Tele.php(90): App\Controllers\Tele->currentMsg('/kunyuk')
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:18:23 --> Call to undefined method CodeIgniter\Session\Session::ser()
+#0 D:\xampp\joki\app\Controllers\Tele.php(90): App\Controllers\Tele->currentMsg('/kunyuk')
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:18:32 --> Call to undefined method App\Controllers\Tele::currentMsg()
+#0 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#1 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#2 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#5 {main}
+CRITICAL - 2022-07-26 03:28:10 --> Trying to access array offset on value of type null
+#0 D:\xampp\joki\app\Controllers\Tele.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\joki\\a...', 14, Array)
+#1 D:\xampp\joki\system\CodeIgniter.php(809): App\Controllers\Tele->__construct()
+#2 D:\xampp\joki\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:28:11 --> Trying to access array offset on value of type null
+#0 D:\xampp\joki\app\Controllers\Tele.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\joki\\a...', 14, Array)
+#1 D:\xampp\joki\system\CodeIgniter.php(809): App\Controllers\Tele->__construct()
+#2 D:\xampp\joki\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:28:23 --> Undefined property: App\Controllers\Tele::$text
+#0 D:\xampp\joki\app\Controllers\Tele.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\joki\\a...', 64, Array)
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:28:24 --> Undefined property: App\Controllers\Tele::$text
+#0 D:\xampp\joki\app\Controllers\Tele.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\joki\\a...', 64, Array)
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:28:25 --> Undefined property: App\Controllers\Tele::$text
+#0 D:\xampp\joki\app\Controllers\Tele.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\joki\\a...', 64, Array)
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:28:25 --> Undefined property: App\Controllers\Tele::$text
+#0 D:\xampp\joki\app\Controllers\Tele.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\joki\\a...', 64, Array)
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:28:26 --> Undefined property: App\Controllers\Tele::$text
+#0 D:\xampp\joki\app\Controllers\Tele.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\joki\\a...', 64, Array)
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:28:26 --> Undefined property: App\Controllers\Tele::$text
+#0 D:\xampp\joki\app\Controllers\Tele.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\joki\\a...', 64, Array)
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:28:27 --> Undefined property: App\Controllers\Tele::$text
+#0 D:\xampp\joki\app\Controllers\Tele.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\joki\\a...', 64, Array)
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:28:29 --> Undefined property: App\Controllers\Tele::$text
+#0 D:\xampp\joki\app\Controllers\Tele.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\joki\\a...', 64, Array)
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:28:29 --> Undefined property: App\Controllers\Tele::$text
+#0 D:\xampp\joki\app\Controllers\Tele.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\joki\\a...', 64, Array)
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:28:30 --> Undefined property: App\Controllers\Tele::$text
+#0 D:\xampp\joki\app\Controllers\Tele.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\joki\\a...', 64, Array)
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:28:31 --> Undefined property: App\Controllers\Tele::$text
+#0 D:\xampp\joki\app\Controllers\Tele.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\joki\\a...', 64, Array)
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:28:32 --> Undefined property: App\Controllers\Tele::$text
+#0 D:\xampp\joki\app\Controllers\Tele.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\joki\\a...', 64, Array)
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:28:32 --> Undefined property: App\Controllers\Tele::$text
+#0 D:\xampp\joki\app\Controllers\Tele.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\joki\\a...', 64, Array)
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:28:33 --> Undefined property: App\Controllers\Tele::$text
+#0 D:\xampp\joki\app\Controllers\Tele.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\joki\\a...', 64, Array)
+#1 D:\xampp\joki\system\CodeIgniter.php(832): App\Controllers\Tele->index()
+#2 D:\xampp\joki\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tele))
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
+CRITICAL - 2022-07-26 03:31:29 --> Maximum execution time of 60 seconds exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-26 03:47:24 --> Trying to access array offset on value of type null
+#0 D:\xampp\joki\app\Controllers\Tele.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xampp\\joki\\a...', 14, Array)
+#1 D:\xampp\joki\system\CodeIgniter.php(809): App\Controllers\Tele->__construct()
+#2 D:\xampp\joki\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}

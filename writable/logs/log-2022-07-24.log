@@ -1,0 +1,8 @@
+CRITICAL - 2022-07-24 03:16:47 --> Undefined property: App\Controllers\Tele::$tele
+#0 D:\xampp\joki\app\Controllers\Tele.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\joki\\a...', 12, Array)
+#1 D:\xampp\joki\system\CodeIgniter.php(809): App\Controllers\Tele->__construct()
+#2 D:\xampp\joki\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#3 D:\xampp\joki\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\joki\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\joki\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\joki\\p...')
+#6 {main}
